@@ -484,3 +484,69 @@ header .container nav ul li{
     color: #3F3B3D;
 }
 
+footer{
+    background-color: var(--back-gr);
+    padding-top: 96px;
+    padding-bottom: 100px;
+}
+
+footer h3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 32px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding-bottom: 32px;
+}
+.foot__img__cont{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 64px;
+}
+
+.footer__links{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__links h4{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: var(--white);
+    padding-bottom: 100px;
+    border-bottom: 2px solid var(--white);
+}
+
+.footer__links h5{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    letter-spacing: 0.16px;
+    color: #FFFFFF;
+    padding-bottom: 15px;
+}
+
+.footer__links ul li{
+    padding-bottom: 4px;
+}
+
+
+.footer__links ul li a{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+
+
+
